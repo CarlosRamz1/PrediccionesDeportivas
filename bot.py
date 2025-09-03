@@ -2,7 +2,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "8292197038:AAEtibgkf7an5Skmvtwx7fnb9WjDFz84CjI"
+TOKEN = "8292197038:AAEtibgkf7an5Skmvtwx7fnb9WjDFz"
 API_URL = "http://127.0.0.1:8000/predict"
 
 # Comando /start
