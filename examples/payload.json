@@ -1,0 +1,14 @@
+{
+  "goals_scored_avg_home": 1.8,
+  "goals_scored_avg_away": 1.1,
+  "goals_conceded_avg_home": 1.0,
+  "goals_conceded_avg_away": 1.4,
+  "shots_avg_home": 13.5,
+  "shots_avg_away": 10.2,
+  "shots_on_target_avg_home": 4.8,
+  "shots_on_target_avg_away": 3.3,
+  "possession_avg_home": 55.0,
+  "possession_avg_away": 45.0,
+  "rating_home": 75.0,
+  "rating_away": 70.0
+}
